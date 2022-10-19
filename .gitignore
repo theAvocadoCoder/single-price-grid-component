@@ -16,3 +16,6 @@
 
 # Node Modules
 node_modules/
+
+# Original README file
+_README.md
