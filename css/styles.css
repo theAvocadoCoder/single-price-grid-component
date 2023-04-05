@@ -93,8 +93,12 @@ h2 {
   background-color: #2ab2b0c1;
 }
 
-.item-3 div p {
-  margin: 0;
+.item-3 ul {
+  padding: 0;
+}
+
+.item-3 ul li {
   opacity: .8;
-  font-size: 12px
+  font-size: 14px;
+  list-style: none;
 }
